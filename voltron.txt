@@ -21961,6 +21961,10 @@ dimwishlist:item=2742490609&perks=202670084,1431678320,1359896290,699525795
 
 
 // IKELOS_SMG_v1.0.2
+//notes:Ben's PVE wish
+dimwishlist:item=2222560548&perks=1525239159,4090651448,1140096971,1359896290
+
+// IKELOS_SMG_v1.0.2
 //notes:pandapaxxy (PvE / M+KB): "The Ikelos smg is back and thankfully we can add a touch of stability to make this gun less like a bucking bronco and more like an angry hedgehog. The very obvious comparison is to Huckleberry and while not strictly better (because few weapons can surpass Huckleberry) it does give some interesting rolls and potential builds that Huckleberry cannot. A high grenade build built upon Oppressive Darkness definitely comes to mind." Recommended MW: Reload.|tags:pve,mkb
 dimwishlist:item=2222560548&perks=1840239774,1087426260,4071163871,3523296417
 dimwishlist:item=2222560548&perks=1482024992,1087426260,4071163871,3523296417
